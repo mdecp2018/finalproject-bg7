@@ -8,3 +8,5 @@ http://mdecourse.github.io/2018fall/
 分組blog: https://mdecp2018.github.io/finalproject-bg7/blog/index.html
 
 分組投影片: https://mdecp2018.github.io/finalproject-bg7/reveal/index.html#/
+
+動態網站 : https://cp2018-bg7.herokuapp.com/
