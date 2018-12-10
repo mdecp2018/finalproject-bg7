@@ -263,7 +263,7 @@ bpm.kill(kind="http")
 <t tx="leo.20181104192450.1"># coding: utf-8
 @others
 if __name__ == "__main__":
-    app.run(host:'127.0.0.1',port=8443,debug=True)
+    app.run()
 @language python
 @tabwidth -4
 </t>
@@ -644,13 +644,7 @@ def checkLogin():
     if hashed_password == saved_password:
         session['admin'] = 1
         return redirect('/edit_page')
-    elif password == "bg7":
-        return redirect('/helloworld')
     return redirect('/')
-
- @app.route('/helloworld')
-def show_helloworld():
-    return "&lt;p&gt;hello world&lt;/p&gt;"
 </t>
 <t tx="leo.20181104192502.20">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
