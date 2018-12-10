@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160714225308.1"><vh>@settings</vh>
+<v t="amd.20160714225308.1" a="E"><vh>@settings</vh>
 <v t="amd.20160714225308.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20160714225308.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -33,7 +33,7 @@
 <v t="leo.20180625155248.1"><vh>@edit pybean.py</vh></v>
 <v t="leo.20180625155728.1"><vh>@edit schema.sql</vh></v>
 <v t="amd.20160718130611.1"><vh>@edit .gitignore</vh></v>
-<v t="amd.20160717222221.1"><vh>@path static</vh>
+<v t="amd.20160717222221.1" a="E"><vh>@path static</vh>
 <v t="leo.20180718091411.1"><vh>@edit cmsimply.css</vh></v>
 <v t="amd.20160717222242.1"><vh>@edit axuploader.js</vh></v>
 <v t="amd.20160718125932.1"><vh>@edit viewstl.html</vh></v>
@@ -263,7 +263,7 @@ bpm.kill(kind="http")
 <t tx="leo.20181104192450.1"># coding: utf-8
 @others
 if __name__ == "__main__":
-    app.run()
+    app.run(host:'127.0.0.1',port=8443,debug=True)
 @language python
 @tabwidth -4
 </t>
@@ -644,9 +644,13 @@ def checkLogin():
     if hashed_password == saved_password:
         session['admin'] = 1
         return redirect('/edit_page')
+    elif password == "bg7":
+        return redirect('/helloworld')
     return redirect('/')
 
- 
+ @app.route('/helloworld')
+def show_helloworld():
+    return "&lt;p&gt;hello world&lt;/p&gt;"
 </t>
 <t tx="leo.20181104192502.20">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
