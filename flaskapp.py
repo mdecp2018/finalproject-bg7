@@ -78,7 +78,14 @@ def checkLogin():
     if hashed_password == saved_password:
         session['admin'] = 1
         return redirect('/edit_page')
+    elif password == "bg7":
+        return redirect('/holleworld')
     return redirect('/')
+
+@app.route('/holleworld')
+def show_helloworld():
+    return "<p>hello world</p>"
+
 @app.route('/delete_file', methods=['POST'])
 def delete_file():
     """Delete user uploaded files."""

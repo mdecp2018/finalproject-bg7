@@ -644,8 +644,13 @@ def checkLogin():
     if hashed_password == saved_password:
         session['admin'] = 1
         return redirect('/edit_page')
+    elif password == "bg7":
+        return redirect('/holleworld')
     return redirect('/')
-</t>
+
+@app.route('/holleworld')
+def show_helloworld():
+    return "&lt;p&gt;hello world&lt;/p&gt;"</t>
 <t tx="leo.20181104192502.20">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def fileaxupload():
