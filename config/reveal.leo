@@ -48,14 +48,14 @@
 <v t="leo.20181224142029.1" a="E"><vh>第十四週</vh>
 <v t="leo.20181226215041.1"><vh>w14</vh></v>
 </v>
+<v t="leo.20190103142554.1" a="E"><vh>第十四週</vh>
+<v t="leo.20190103142554.2"><vh>w14</vh></v>
+</v>
 <v t="leo.20181224142032.1" a="E"><vh>第十五週</vh>
 <v t="leo.20181224142032.2"><vh>w15</vh></v>
 </v>
 <v t="leo.20181224142033.1" a="E"><vh>第十六週</vh>
 <v t="leo.20181224142033.2"><vh>w16</vh></v>
-</v>
-<v t="leo.20181224142035.1" a="E"><vh>第十七週</vh>
-<v t="leo.20181224142035.2"><vh>w17</vh></v>
 </v>
 <v t="leo.20181224135234.1" a="E"><vh>期末自評</vh>
 <v t="leo.20181224135234.2"><vh>期末自評</vh></v>
@@ -421,28 +421,13 @@ Created by bg7
 
 
 </t>
-<t tx="leo.20181224142035.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181224142035.2">## 第十七週
-
-
-
-</t>
 <t tx="leo.20181226215041.1">## 第十四週
 
 在網站上新增一組密碼，並讓頁面導向自己所輸入的字串
 
 輸入bg7會出現hello world
 
-&lt;a href="https://ppt.cc/flDNbx"&gt;&lt;img src="https://ppt.cc/flDNbx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;
-
+&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w14"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w14.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 </t>
 <t tx="leo.20181226215852.1">## 第十三周
 
@@ -462,6 +447,17 @@ Created by bg7
 </t>
 <t tx="leo.20181226220729.2">&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 
+</t>
+<t tx="leo.20190103142554.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190103142554.2">&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w14-helloworld"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w14-helloworld.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
