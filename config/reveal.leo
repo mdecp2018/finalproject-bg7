@@ -347,9 +347,9 @@ Created by bg7
 
 [Heroku 雲端服務與 Github 倉儲內容保持自動同步](https://www.youtube.com/watch?v=2QDqaj_oF3U) 
 
+[動態網站](https://cp2018-bg7.herokuapp.com/)
 
-
-</t>
+&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</t>
 <t tx="leo.20181224142025.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -419,7 +419,7 @@ Created by bg7
 </t>
 <t tx="leo.20181224142033.2">## 第十六週
 
-
+小組期末專案
 </t>
 <t tx="leo.20181226215041.1">## 第十四週
 
