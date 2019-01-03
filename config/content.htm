@@ -45,7 +45,23 @@
 <p><img alt="" height="281" src="/images/5.png" width="500"/></p>
 <p><img alt="" height="281" src="/images/55.png" width="500"/></p>
 <h2>w14</h2>
-<h2>w15</h2>
+<p>在分組網站中新增一組密碼並導向新的頁面</p>
+<p>先找到cmsimfly.leo 並開啟</p>
+<p><img alt="" height="351" src="/images/cmsimfly.png" width="500"/></p>
+<p>找到checklog , 新增下列程式</p>
+<p>elif password == "bg7":</p>
+<p>      return redirect('/helleworld')</p>
+<p>return redirect('/')</p>
+<p>@app.route('/helleworld')</p>
+<p>def show_helloworld():</p>
+<p>       return "hello world”</p>
+<p><img alt="" height="266" src="/images/checklogin.png" width="500"/></p>
+<p>我們讓<span>session[‘admin’] = 1 </span>，密碼打<span>admin</span>，程式執行時判斷<span>admin</span>變數等於<span>1</span>，則可以登入極管理網頁。</p>
+<p><img alt="" height="266" src="/images/password.png" width="500"/></p>
+<p><span>elif password == "bg7":</span></p>
+<p><span>return redirect('/helleworld')</span></p>
+<p>當輸入密碼是<span>bg7 </span>，登入頁面導向<span>(‘/   ‘)</span>括弧內的字，這裏我們設定成<span>helloword</span></p>
+<p><img alt="" height="266" src="/images/helloworld.png" width="500"/></p><h2>w15</h2>
 <h2>w16</h2>
 <p></p>
 <h1>Final Report</h1>
