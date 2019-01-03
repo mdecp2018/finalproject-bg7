@@ -441,14 +441,16 @@ Created by bg7
 
 輸入bg7會出現hello world
 
-&lt;a href="https://ppt.cc/flDNbx"&gt;&lt;img src="https://ppt.cc/flDNbx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;</t>
+&lt;a href="https://ppt.cc/flDNbx"&gt;&lt;img src="https://ppt.cc/flDNbx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181226215852.1">## 第十三周
 
 閱讀程式並修改
 
-&lt;a href="https://ppt.cc/f6CVAx"&gt;&lt;img src="https://ppt.cc/f6CVAx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;a href="https://ppt.cc/fdArUx"&gt;&lt;img src="https://ppt.cc/fdArUx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;</t>
+</t>
 <t tx="leo.20181226220729.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -458,6 +460,8 @@ Created by bg7
 
 						
 </t>
-<t tx="leo.20181226220729.2">&lt;a href="https://ppt.cc/fdArUx"&gt;&lt;img src="https://ppt.cc/fdArUx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"&gt;&lt;/a&gt;</t>
+<t tx="leo.20181226220729.2">&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</t>
 </tnodes>
 </leo_file>
