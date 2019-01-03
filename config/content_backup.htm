@@ -31,8 +31,6 @@
 <h2>w11</h2>
 <p><span>利用herku製作雲端動態網站跟靜態網站同步</span></p>
 <p><span>雲端動態網站 : <a href="https://cp2018-bg7.herokuapp.com/" rel="nofollow">https://cp2018-bg7.herokuapp.com/</a></span></p>
-<p><span></span></p>
-<h2>w12</h2>
 <p></p>
 <h2>w13</h2>
 <p>練習程式語法</p>
@@ -45,13 +43,33 @@
 <p><img alt="" height="281" src="/images/5.png" width="500"/></p>
 <p><img alt="" height="281" src="/images/55.png" width="500"/></p>
 <h2>w14</h2>
+<p>在分組網站中新增一組密碼並導向新的頁面</p>
+<p>先找到cmsimfly.leo 並開啟</p>
+<p><img alt="" height="351" src="/images/cmsimfly.png" width="500"/></p>
+<p>找到checklog , 新增下列程式</p>
+<p>elif password == "bg7":</p>
+<p>      return redirect('/helleworld')</p>
+<p>return redirect('/')</p>
+<p>@app.route('/helleworld')</p>
+<p>def show_helloworld():</p>
+<p>       return "hello world”</p>
+<p><img alt="" height="266" src="/images/checklogin.png" width="500"/></p>
+<p>我們讓<span>session[‘admin’] = 1 </span>，密碼打<span>admin</span>，程式執行時判斷<span>admin</span>變數等於<span>1</span>，則可以登入極管理網頁。</p>
+<p><img alt="" height="266" src="/images/password.png" width="500"/></p>
+<p><span>elif password == "bg7":</span></p>
+<p><span>return redirect('/helleworld')</span></p>
+<p>當輸入密碼是<span>bg7 </span>，登入頁面導向<span>(‘/   ‘)</span>括弧內的字，這裏我們設定成<span>helloword</span></p>
+<p><img alt="" height="266" src="/images/helloworld.png" width="500"/></p>
 <h2>w15</h2>
 <h2>w16</h2>
-<p></p>
+<p>小組期末專案</p>
+<h2>w18期末報告影片</h2>
+<p>40523245謝東廷:<iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/eJi-v_2ln1M" width="560"></iframe></p>
 <h1>Final Report</h1>
 <h4><a href="/downloads/w13.pdf">w13-finalproject-bg7</a></h4>
 <h4><a href="/downloads/w14.pdf">w14-finalprojecct-bg7</a></h4>
-<p></p><h1>Attend &amp; Absence</h1>
+<p></p>
+<h1>Attend &amp; Absence</h1>
 <table border="1" height="351" style="border-collapse: collapse; width: 94.5495%;">
 <tbody>
 <tr>
