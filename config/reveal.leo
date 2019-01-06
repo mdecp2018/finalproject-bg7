@@ -36,9 +36,6 @@
 <v t="leo.20181224142024.1" a="E"><vh>第十一週</vh>
 <v t="leo.20181224142024.2"><vh>w11</vh></v>
 </v>
-<v t="leo.20181224142025.1" a="E"><vh>第十二週</vh>
-<v t="leo.20181224142025.2"><vh>w12</vh></v>
-</v>
 <v t="leo.20181224142028.1" a="E"><vh>第十三週</vh>
 <v t="leo.20181226215852.1"><vh>w13</vh></v>
 </v>
@@ -56,6 +53,9 @@
 </v>
 <v t="leo.20181224142033.1" a="E"><vh>第十六週</vh>
 <v t="leo.20181224142033.2"><vh>w16</vh></v>
+</v>
+<v t="leo.20190106103111.1" a="E"><vh>第十七周</vh>
+<v t="leo.20190106103111.2"><vh>w17</vh></v>
 </v>
 <v t="leo.20181224135234.1" a="E"><vh>期末自評</vh>
 <v t="leo.20181224135234.2"><vh>期末自評</vh></v>
@@ -343,36 +343,13 @@ Created by bg7
 
 						
 </t>
-<t tx="leo.20181224142024.2">## 第十一周
+<t tx="leo.20181224142024.2">## 第十一 '十二周
 
 [Heroku 雲端服務與 Github 倉儲內容保持自動同步](https://www.youtube.com/watch?v=2QDqaj_oF3U) 
 
 [動態網站](https://cp2018-bg7.herokuapp.com/)
 
-&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</t>
-<t tx="leo.20181224142025.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181224142025.2">## 第十二周
-
-[40523204](https://github.com/mdecp2018/site-s40523204) 期中自評:65
-
-[40523205](https://github.com/mdecp2018/site-s40523205) 期中自評:65
-
-[40523206](https://github.com/mdecp2018/site-s40523206) 期中自評:70
-
-[40523234](https://github.com/mdecadp2018/site-s40523234) 期中自評:70
-
-[40523245](https://github.com/mdecp2018/site-s40523245) 期中自評:60
-
-[40523925](https://github.com/mdecp2018/site-s40523925) 期中自評:60
-
+&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w11-heroku.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </t>
 <t tx="leo.20181224142028.1">&lt;section data-markdown&gt;
@@ -458,6 +435,21 @@ Created by bg7
 						
 </t>
 <t tx="leo.20190103142554.2">&lt;p&gt;&lt;a href="https://mdecp2018.github.io/finalproject-bg7/picture/w14-helloworld"&gt;&lt;img src="https://mdecp2018.github.io/finalproject-bg7/picture/w14-helloworld.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20190106103111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106103111.2">## 第十七週
+
+分成三次來補課
+
+講解python語法以及應用
 </t>
 </tnodes>
 </leo_file>
