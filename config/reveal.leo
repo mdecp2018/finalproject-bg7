@@ -266,17 +266,19 @@ Created by bg7
 </t>
 <t tx="leo.20181224135234.2">## 期末自評
 
+[期末專案報告](https://mdecp2018.github.io/finalproject-bg7/downloads/%E7%AC%AC%E4%B8%83%E7%B5%84%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf)
+
 [40523204期末報告影片](https://youtu.be/aLoWko9s5uo) 期末自評:65
 
 [40523205期末報告影片](https://youtu.be/S87VZuH3wTQ) 期末自評:65
 
-[40523206期末報告影片](https://youtu.be/7hNbLwO47n0) 期末自評:70
+[40523206期末報告影片](https://youtu.be/7hNbLwO47n0) 期末自評:65
 
-[40523234期末報告影片](https://youtu.be/1-LM5sI5I_Y) 期末自評:70
+[40523234期末報告影片](https://youtu.be/1-LM5sI5I_Y) 期末自評:65
 
-[40523245期末報告影片](https://youtu.be/eJi-v_2ln1M) 期末自評:60
+[40523245期末報告影片](https://youtu.be/eJi-v_2ln1M) 期末自評:65
 
-[40523925期末報告影片](https://youtu.be/fisI2gfrgjw) 期末自評:60
+[40523925期末報告影片](https://youtu.be/fisI2gfrgjw) 期末自評:65
 
 </t>
 <t tx="leo.20181224135502.1">&lt;section data-markdown&gt;
@@ -397,7 +399,9 @@ Created by bg7
 <t tx="leo.20181224142033.2">## 第十六週
 
 小組期末專案
-</t>
+
+遊戲影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pCB0X9rc01s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181226215041.1">## 第十四週
 
 在網站上新增一組密碼，並讓頁面導向自己所輸入的字串
@@ -449,7 +453,6 @@ Created by bg7
 
 分成三次來補課
 
-講解python語法以及應用
-</t>
+講解python的語法和運用 : 判斷式if 、while 迴圈 、for 迴圈 、 集合的運用 、字典的運用 、有序可變動列表 List 、有序不可變動列表 Tuple</t>
 </tnodes>
 </leo_file>
